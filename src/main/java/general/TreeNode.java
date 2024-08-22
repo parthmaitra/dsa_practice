@@ -1,3 +1,5 @@
+package general;
+
 class TreeNode {
     int val;
     TreeNode right=null;

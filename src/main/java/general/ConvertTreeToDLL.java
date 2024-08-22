@@ -1,3 +1,4 @@
+/*
 import java.util.Arrays;
 import java.util.List;
 
@@ -50,7 +51,8 @@ public class ConvertTreeToDLL {
         if (left!=null)
             convert(left);
     }
-    /*public TreeNode convertTreeToDLL(TreeNode head, TreeNode next,TreeNode prev) {
+    */
+/*public TreeNode convertTreeToDLL(TreeNode head, TreeNode next,TreeNode prev) {
         if(head.left == null && head.right == null) {
 
         }
@@ -58,7 +60,8 @@ public class ConvertTreeToDLL {
 
         }
         return head;
-    }*/
+    }*//*
+
     private TreeNode insertInBST(TreeNode head, int val) {
         if(head==null) {
             head = new TreeNode(val);
@@ -75,3 +78,4 @@ public class ConvertTreeToDLL {
     }
 }
 
+*/

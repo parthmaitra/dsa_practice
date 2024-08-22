@@ -1,3 +1,5 @@
+package general;
+
 public class SumOfBSTInRange {
     public int rangeSumBST(TreeNode root, int low, int high) {
         int sum=0;

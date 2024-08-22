@@ -1,3 +1,5 @@
+package general;
+
 public class LengthOfLastWord {
     public int lengthOfLastWord(String s) {
         String[] words = s.split(" ");

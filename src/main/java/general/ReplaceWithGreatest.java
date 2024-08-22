@@ -1,3 +1,5 @@
+package general;
+
 public class ReplaceWithGreatest {
     public int[] replaceElements(int[] arr) {
         int len=arr.length;

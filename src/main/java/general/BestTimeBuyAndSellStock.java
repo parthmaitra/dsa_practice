@@ -1,3 +1,5 @@
+package general;
+
 public class BestTimeBuyAndSellStock {
     public int maxProfit(int[] prices) {
         int profit = 0;

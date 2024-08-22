@@ -1,3 +1,5 @@
+package general;
+
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int i=0,j=height.length-1;
